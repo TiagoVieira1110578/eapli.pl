@@ -1,6 +1,3 @@
+Controlo de Versões
 
-paulo costa
-olá
-olá
-
-Ficheiro de teste
+Git
